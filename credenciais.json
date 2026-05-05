@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stone-door-458415-f2",
+  "private_key_id": "ba068b3fa39e3c922e1c690afdb2199e595f9e74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDUman72S+bqGjc\n81xAZvb5z55vXfiT8o4LSzQzNAXwCLJjQsy4l/i27pkZn0jQ1U/ODA0H8s+MH0Ll\ngG7rR5qDwubTsgQDivf2BASniD1LH/dFLSQ6aMlPcMK1IKi1gH1B9bkoDFsNzGxL\np5b2PuvmaWaryEDHTQNzvei4ATIrTG+9/xM/JHITlkjGd6h/A2r1rH5Jn5HD2Yfq\nMw9+jeyejqXdR77l8ccA8yvgUwv8LEhCHu7nCmg4JoCQ2K2Ko1DNVuWYLqN9T7rR\njjkooXkcu0gZLQA7VCOP/qv1uuO1e6mVArWawlxhPpyctto/CmQHYDxt47k077DO\nX7L186dlAgMBAAECggEALEDjNPkPs6FB2LIwgvhb0wKgWlKvdk5gOmIYVssurDkH\nNum19vutShjO1hpFnDC2yK9R/BRTFvn/4QlTrVZth51HkovE0Z74/+T0uhG+Hnfk\nLupXVvAubUKNyQmoDIXXLOZy+O7fejcR2Mqk/hN5Y7APbtUDhOjXPd2rRjf7gy7n\n+qgGVcszJIY/J0i3ixb/jJtglLtUPhz8/myBlzuJk6wb81NQXy1A5tbJGgGvFErw\n2777YTLatw6LN9Wyu7Z6OA+4HPSIw68qROj3e7VcJbmgKX199Ds9zTRI2D/IOnGO\nTRuv4nGlnM47QLCLkfCuH5dQuqZxDZBIw4UOtG9igQKBgQD1Il4VKBfO+aauZJX7\n0j2Xp/Ft3NqxTTiQLvNhJ835wkQ9FwzZhvxPGCbMLVSjAQHBS7hPm9F4CFcVQRTy\nv03SaUZhVnO3diMossEFrwpAABKukd/Ko3G0/WOxAaTCGbzOPh7rlvXrWv/L67OZ\nDO++bl8yIeb9EiK4b5wvs5h75QKBgQDeBh7nE7jybhbPpObaOmTIwokvfWSE289v\nTz3SqksT/hR0d3u5TdUltoCNHdsMfTCrkkE8+Jne2njXlqnuEH8ajjH2rvHvUnDb\nLLUWwBx98sz/k08T3eMY9XjW50uLUTiByQ1wsivDDkocdwxviwpcjjz++0uXFlQ+\nLaqB807FgQKBgQDKte/dSPlfRB2tKyrIQpSCe/PvaOpEIlp7CQhkOFlhh1+MsSoE\nHFc7RPqYb4gE/8kmwmoZEv6GZ0c0IUykbMR7EmmMBsTMWto6Ro/OFnDAeg7441KQ\nLNbT15KABp7rkAMM/lvtcDnOtcLALBqpnwQGkxkPyO9OKZgistEStU6MbQKBgQC/\nGpGa4JT+xteHny69hCmfzCJ85/ePjAv+iTxzifTZnodIwFeUZnQi4/W+gYY8N72e\n0GKq8mivM2l0V9CogzaESwSiim7gShut68tra6yalFTzX35fYUvJ/fAnOisCHcT/\noWiaKiIU4MXVvnrLv+gJRr0l1HN59tRIONJczGpvAQKBgQCMWXYB0K1Qzmg6zhsl\nHf6lQvr0zKYtnltl4scQr3mTiaQ4Gvo3viZtboX1807apSarYUJeXRUUOKPHSfxf\nlMzG3jxpeUXA3jpOQ8XTvP0spxqb+jt3xK7U8Q0Abs3erKzKX4wgGpTbqil5OJGJ\nhiet3nkNUbh7x5hixvRELSkDHA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "teste-633@stone-door-458415-f2.iam.gserviceaccount.com",
+  "client_id": "114479967710820984400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teste-633%40stone-door-458415-f2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
